@@ -1,0 +1,5 @@
+C'est une bataille navale sur console.
+
+L'IA n'est pas à 100% fonctionnelle.
+
+Le main se situe dans la classe BatailleNavalle.java
